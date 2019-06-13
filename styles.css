@@ -1,0 +1,16 @@
+html{margin: 0 auto;
+    padding: 0 0;
+    text-align: center;
+
+}
+header{color:#684;}
+
+section{padding:25px;} 
+
+h2{font-size:30px;
+    color:#684;}
+
+p{font-size:20px;
+    color:#299;}
+.list{margin: 5px;
+    color: yellowgreen;}
